@@ -15,6 +15,7 @@ The company’s HR department asks you to fill out a form, so you start by assig
 
 📌 Create a variable for your name, surname, age, ID number, place of residence, to specify if you have active health insurance or not, and lastly one for specifying your nationality.
 """
+# 05.11.2022
 
 #Please assign your personal information to variables
 my_name="yasin"
